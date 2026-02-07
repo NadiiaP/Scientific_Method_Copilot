@@ -1,6 +1,0 @@
-faiss-cpu==1.8.0.post1
-pdfminer.six==20231228
-pyyaml==6.0.2
-requests==2.32.3
-sentence-transformers==3.0.1
-tqdm==4.66.5
